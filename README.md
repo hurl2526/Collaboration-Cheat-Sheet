@@ -2,7 +2,7 @@
 |  Key Words      | Definitions          |
 | ------------- |-------------|
 | Utilities    | Indicate the general idea of what you want|
-| Arguments     | Tells the command line which directory we want to change to|
+| Arguments     | Tells utility exactly what you want for a certain action|
 | Options/Flags | Alters how the utility operates  |
 ## **Utilities/Arguments/Options**
 * ~: means home = /users/User_name  
@@ -12,10 +12,10 @@
   * LS-L: gives more indepth information
   * LS-LA: combines the above two
 * CD: change directory
-  * cd [directory-name] Goes from current to new directory
-  * cd ~ quickly switches to home directory regardless of current location
-  * cd - quickly switches to previous directory(same as..)
-* PWD: print working directory-where I’m at
+  * cd [directory-name] : Goes from current to new directory
+  * cd ~ : Switches to home directory regardless of current location
+  * cd - : Quickly switches to previous directory(same as..)
+* PWD: print working directory- Lists where I’m at
 * MKDIR: Make Directory 
   * MKDIR -p: parent directory
 * RM: Remove (only files not directories)
