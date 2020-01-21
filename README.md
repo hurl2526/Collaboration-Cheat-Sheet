@@ -7,7 +7,10 @@
   * LS-A:includes hidden files
   * LS-L: gives more indepth information
   * LS-LA: combines the above two
-* CD: change directory
+* CD: change director
+  * cd [directory-name] Goes from current to new directory
+  * cd ~ quickly switches to home directory regardless of current location
+  * cd - quickly switches to previous directory(same as..)
 * PWD: print working directory-where I’m at
 * MKDIR: Make Directory 
   * MKDIR -p: parent directory
